@@ -1,8 +1,17 @@
 # Pokenya
 
+## A sidenote
+- Hello it's me, back with a newer & better bot/cheat for pokemeow!
+- This new product boasts a much better captcha solver. In fact I'm no longer worried I'm failing captchas like I did with yugen's and primrose's older models.
+- I also managed to create a proper GUI this time with a few interesting & useful features/QOL that IK yall love.
+- Prices are upped and we're doing subscriptions now, primarily since I want to keep the circle small, and every client satisfied & safe. Yugen is still up for sale if yall want a cheaper alternative!
+- Enjoy!
+
+## Overview
+
 - **Graphical user interface!** With beautiful logging, a captcha solve reviewer, and session management screen! **19 themes** are preinstalled for you to choose your flavor!
 - Run **multiple accounts**, each account executing **multiple commands** (;p, ;f, ;b, ;exp), all at the same time!
-- **CRAZY CAPTCHA SOLVER!** Solves faster and more accurate than you do!
+- **CRAZY CAPTCHA SOLVER!** Solves faster and more accurate than you (and I) do!
 - **POG battle AI** which battles, switches mon, forfeits by itself, and choose moves while taking type effectiveness, pokemon stats, STAB bonus, held items.. into calculation!
 - **Everything is customizable!** from bot behaviour to log colors.
 - **Configurable PC notifications, Discord message forwarding** to know when your bots have encountered something **BIG**!
