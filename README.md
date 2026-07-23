@@ -31,9 +31,9 @@
 
 ### Lifetime/Forever
 
-- _Hunt_ forever: $35
-- **Hunt/fish** forever: $60
-- **Hunt/fish/battle** forever: $90
+- _Hunt_ forever: $45
+- **Hunt/fish** forever: $70
+- **Hunt/fish/battle** forever: $100
 - **everything** forever: $120
   - Includes any future commands developed without paying extra.
 
