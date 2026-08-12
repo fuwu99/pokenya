@@ -1,7 +1,7 @@
 # Pokenya
 
 ## A sidenote
-- Hello it's me, back with a newer & better bot/cheat for pokemeow!
+- Hello it's me, back with a newer & better bot/cheat for pokemeow!!
 - This new product boasts a much better captcha solver. In fact I'm no longer worried I'm failing captchas like I did with yugen's and primrose's older models.
 - I also managed to create a proper GUI this time with a few interesting & useful features/QOL that IK yall love.
 - Prices are upped and we're doing subscriptions now, primarily since I want to keep the circle small, and every client satisfied & safe. Yugen is still up for sale if yall want a cheaper alternative!
