@@ -1,4 +1,4 @@
-t# Pokenya
+# Pokenya
 
 ## DEMONSTRATION SCREENSHOTS ARE NOW ADDED!! [View Features Demo](pictures/)
 
