@@ -1,4 +1,6 @@
-# Pokenya
+t# Pokenya
+
+## DEMONSTRATION SCREENSHOTS ARE NOW ADDED!! [View Features Demo](pictures/)
 
 ## A sidenote
 - Hello it's me, back with a newer & better bot/cheat for pokemeow!!
